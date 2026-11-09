@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Moaz Ali, Full Stack Developer">
+  <rect width="1280" height="320" rx="12" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="1279" height="319" rx="11.5" fill="none" stroke="#30363d"/>
+  <g font-family="-apple-system,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+    <text x="80" y="150" font-size="66" font-weight="700" fill="#f0f6fc">Moaz Ali</text>
+    <text x="82" y="196" font-size="28" fill="#8b949e">Full Stack Developer</text>
+    <rect x="82" y="220" width="52" height="4" rx="2" fill="#2f81f7"/>
+
+    <rect x="640" y="64" width="1" height="192" fill="#30363d"/>
+
+    <text x="700" y="102" font-size="14" font-weight="600" fill="#58a6ff" letter-spacing="1.8">FRONTEND</text>
+    <text x="700" y="132" font-size="23" fill="#e6edf3">Angular, TypeScript, RxJS, Tailwind</text>
+
+    <text x="700" y="178" font-size="14" font-weight="600" fill="#58a6ff" letter-spacing="1.8">BACKEND</text>
+    <text x="700" y="208" font-size="23" fill="#e6edf3">NestJS, Node.js, Express, REST, JWT</text>
+
+    <text x="700" y="254" font-size="14" font-weight="600" fill="#58a6ff" letter-spacing="1.8">DATA &amp; DEVOPS</text>
+    <text x="700" y="284" font-size="23" fill="#e6edf3">PostgreSQL, MongoDB, Redis, Docker</text>
+  </g>
+</svg>
