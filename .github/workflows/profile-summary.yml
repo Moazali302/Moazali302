@@ -11,21 +11,14 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release/4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
         with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
           UTC_OFFSET: 5
-
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile-summary-card-output
-          git diff --cached --quiet || git commit -m "Update profile summary cards"
-          git push

@@ -38,21 +38,21 @@ I'm open to Angular and full stack roles, remote or in Lahore.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
-    <img src="./profile-summary-card-output/github/0-profile-details.svg" alt="Profile details" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/solarized_dark/0-profile-details.svg">
+    <img src="./profile-summary-card-output/default/0-profile-details.svg" alt="Profile details" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-    <img src="./profile-summary-card-output/github/3-stats.svg" alt="GitHub stats" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/solarized_dark/3-stats.svg">
+    <img src="./profile-summary-card-output/default/3-stats.svg" alt="GitHub stats" width="49%">
   </picture>
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Repositories per language" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/solarized_dark/1-repos-per-language.svg">
+    <img src="./profile-summary-card-output/default/1-repos-per-language.svg" alt="Repositories per language" width="49%">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Most committed languages" width="49%">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/solarized_dark/2-most-commit-language.svg">
+    <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Most committed languages" width="49%">
   </picture>
 </p>
