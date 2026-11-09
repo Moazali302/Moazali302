@@ -117,14 +117,6 @@ I'm a **Full Stack Developer** working mostly with Angular and NestJS. I've been
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Moazali302&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true&radius=12&custom_title=Contribution%20Activity"
-    alt="Moaz Ali contribution activity graph"
-    width="98%"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://github-stats-extended.vercel.app/api/top-langs?username=Moazali302&layout=compact&langs_count=8&card_width=830&hide_border=false&border_color=58A6FF&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
     alt="Moaz Ali most used languages"
     width="98%"
