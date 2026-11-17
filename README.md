@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Moaz Ali</h1>
 <h3 align="center">Full Stack Developer</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Moazali302&style=flat-square&color=2f81f7&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=Moazali302&style=flat-square&color=2f81f7&label=PROFILE+VIEWS" alt="Profile Views"/> -->
+  <img src='header.svg'>
 </p>
 <h3 align="center">
   Building secure, scalable web apps with Angular and NestJS.
